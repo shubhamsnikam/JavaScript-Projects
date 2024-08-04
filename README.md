@@ -2,4 +2,4 @@ JavaScript Projects List :-
 
 Password Generator Using- HTML,CSS & Javascript
 
-Simple Calculator
+Simple Calculator Using -HTMl
